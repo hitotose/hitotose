@@ -1,5 +1,7 @@
   <p align="center"> ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f5cf225-3fed-42e2-819a-6b96622e434f/dck1ndf-2643054a-c8cb-4c87-85e5-f361af7c70a6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmNWNmMjI1LTNmZWQtNDJlMi04MTlhLTZiOTY2MjJlNDM0ZlwvZGNrMW5kZi0yNjQzMDU0YS1jOGNiLTRjODctODVlNS1mMzYxYWY3YzcwYTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xrzaGbc2QuhDDSLZjfpCyXxL2rvPmFOPHx2gWkeUzWo
 )    <p align="center">
+  <p align="center"> ![](https://komarev.com/ghpvc/?username=hitotose&base=2375
+)    <p align="center">
 
 <p align="center">Hiii! I'm Lawrence.. this is a WIP!
 <p align="center">Extroverted and I might whisper you or even start a conversation
